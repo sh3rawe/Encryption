@@ -4,4 +4,4 @@ I take a string from the user and convert it into encrypted string not able to b
 steps of encryption:
 1. any letter either lowercase or uppercase must be shifted 3 positions to the right accorfing to Ascii table
 2. each string must be reversed
-3. after reversing the string we get the middle of the string and shift any character 1 position to the left
+3. after reversing the string we move to the middle of the string and shift any character 1 position to the left
